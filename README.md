@@ -29,7 +29,46 @@ Experience the NIT Rourkela Campus Navigator live here:
   * **🔐 Student Authentication**: Secure roll number validation for access to certain features.
   * **⚡ Quick Actions**: Shortcuts to popular campus destinations.
 
------
+
+
+### 🎬 **Welcome Experience**
+- **Animated Welcome Screen** - Cycling students animation with campus scenery
+- **Smooth Transitions** - Professional fade-in animations and loading states
+- **Mobile-First Design** - Responsive across all devices
+
+### 🗺️ **Navigation System**
+- **Interactive Campus Map** - Visual route highlighting with grid references
+- **50+ Campus Locations** - Complete coverage from Jagda Gate (H4) to Basketball Court (G7)
+- **Smart Route Planning** - Optimized paths with distance calculations
+- **Voice Navigation** - AI-powered route announcements using Speech Synthesis API
+
+### 🔐 **Student Authentication**
+- **Roll Number Validation** - Supports formats 122-129 + 2 letters + 4 digits
+- **Persistent Sessions** - Auto-login with localStorage
+- **Secure Access** - Student-only features and personalization
+
+### 📱 **Smart Features**
+- **Offline Detection** - Works without internet connection
+- **Weather Integration** - Real-time campus weather updates
+- **Emergency Contacts** - Quick access to campus security and medical help
+- **Live Updates** - Campus announcements and notifications
+- **Schedule Manager** - Personal class scheduling with CRUD operations
+
+### 🎯 **User Experience**
+- **Quick Actions** - Popular destination shortcuts
+- **Feedback System** - User feedback collection and ratings
+- **Progressive Web App** - App-like experience on mobile devices
+- **Accessibility** - Voice navigation and keyboard-friendly interface
+
+## 🚀 Live Demo
+
+**[🌐 Visit Live Application](https://your-deployed-link.netlify.app)**
+
+### Test Credentials:
+- **Roll Number Format**: `122mm0690`, `123cs1234`, `124ee5678`
+- **Valid Prefixes**: 122, 123, 124, 125, 126, 127, 128, 129
+- **Format**: [Prefix] + [2 letters] + [4 digits]
+
 
 ## 💻 Technology Stack
 
