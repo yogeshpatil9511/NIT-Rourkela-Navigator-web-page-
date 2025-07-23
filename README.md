@@ -101,13 +101,4 @@ The project is automatically deployed to Netlify upon pushes to the `main` branc
 Your deployed site can be found at: **[https://strong-rolypoly-e22dcd.netlify.app](https://strong-rolypoly-e22dcd.netlify.app)**
 
 
-## 🤝 Contributing
-
-Contributions are welcome\! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
------
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
